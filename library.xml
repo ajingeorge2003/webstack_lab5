@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="library.xsl" ?>
+<!-- <!DOCTYPE library PUBLIC "public-id" "librdef.dtd"> -->
+<?xml-model href="./librdef.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<library>
+    <book id="book_1">
+        <isbn>978-0134670959</isbn>
+        <name>Operating System Concepts</name>
+        <author>Abraham Silberschatz</author>
+        <publisher>Wiley</publisher>
+        <year>2020</year>
+    </book>
+    <book id="book_2">
+        <isbn>978-0133591629</isbn>
+        <name>Modern Operating Systems</name>
+        <author>Andrew S. Tanenbaum</author>
+        <publisher>Pearson</publisher>
+        <year>2020</year>
+    </book>
+    <book id="book_3">
+        <isbn>978-0262044690</isbn>
+        <name>Structure and Interpretation of Computer Programs</name>
+        <author>Harold Abelson</author>
+        <publisher>MIT Press</publisher>
+        <year>2020</year>
+    </book>
+    <book id="book_4">
+        <isbn>978-0134093413</isbn>
+        <name>Data Structures and Algorithm Analysis in C++</name>
+        <author>Mark Allen Weiss</author>
+        <publisher>Pearson</publisher>
+        <year>2021</year>
+    </book>
+    <book id="book_5">
+        <isbn>978-0134853987</isbn>
+        <name>Artificial Intelligence: A Modern Approach</name>
+        <author>Stuart Russell</author>
+        <publisher>Pearson</publisher>
+        <year>2021</year>
+    </book>
+</library>
